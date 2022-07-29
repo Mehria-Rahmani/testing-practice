@@ -1,9 +1,23 @@
 {
-  "devDependencies": {
-    "@babel/plugin-transform-modules-commonjs": "^7.18.6",
-    "jest": "^28.1.3"
-  },
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamayounali/Testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamayounali/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/Hamayounali/Testing-practice#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
   }
 }

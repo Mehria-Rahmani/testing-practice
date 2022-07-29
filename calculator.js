@@ -1,19 +1,19 @@
-class Calculator {
-  add(x, y) {
-    if (typeof x === "number" && typeof y === "number") return x + y;
-  }
+const calculator = {
+    add: (a, b) => {
+       return a + b
+    },
+    
+    subtract: (a, b) => {
+       return a - b
+    },
 
-  subtract(x, y) {
-    if (typeof x === "number" && typeof y === "number") return x - y;
-  }
+    divide: (a, b) => {
+        return a / b
+     },
 
-  divide(x, y) {
-    if (typeof x === "number" && typeof y === "number") return x / y;
-  }
-
-  multiply(x, y) {
-    if (typeof x === "number" && typeof y === "number") return x * y;
-  }
+    multiply: (a, b) => {
+    return a * b
+    }
 }
 
-export default Calculator;
+module.exports = calculator;
