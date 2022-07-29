@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### Javascript testing practice
 =======
 ![](https://img.shields.io/badge/Microverse-blueviolet)
