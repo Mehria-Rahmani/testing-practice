@@ -6,10 +6,10 @@
 
 
 ## Built With
+- HTML
+- CSS3
+- JavaScript and webpack
 
-- Major languages
-- Frameworks
-- Technologies used
 
 ## Live Demo (if available)
 
@@ -42,16 +42,11 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-Mehria-Rahmani*
+**Mehria-Rahmani***
+- Github: [@Merhia-Rahmani](https://github.com/Mehria-Rahmani)
+- Twitter: [@MehriaRahmani](https://twitter.com/MehriaRahmani?t=QwKwWXTVBZthv4sUrOXtfQ&s=08)
+- LinkedIn: [@mehria-rahmani](https://www.linkedin.com/in/mehria-rahmani-379211222) 
 
-Github: @Merhia-Rahmani
-Twitter: @MehriaRahmani
-LinkedIn: @mehria-rahmani
-bust_in_silhouette Author2
-
-Patrick Maina*
-
-Github: @PNdunguMaina
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -64,9 +59,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
+- coding partners
 
 ## 📝 License
 
