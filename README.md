@@ -42,16 +42,16 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+Mehria-Rahmani*
 
-👤 **Author2**
+Github: @Merhia-Rahmani
+Twitter: @MehriaRahmani
+LinkedIn: @mehria-rahmani
+bust_in_silhouette Author2
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+Patrick Maina*
 
+Github: @PNdunguMaina
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
